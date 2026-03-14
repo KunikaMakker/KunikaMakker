@@ -33,12 +33,11 @@ Find me at **[kunika.dev](https://kunika.dev)**
 | Project | Stack | Live |
 |---|---|---|
 | [Portfolio](https://github.com/KunikaMakker/portfolio) | React, TypeScript, Tailwind | [kunika.dev](https://kunika.dev) |
-| [Fullstop Hostels](https://github.com/KunikaMakker/fullstophostels) | Next.js, TypeScript, SSR | [fullstophostels.com](https://fullstophostels.com) |
-| [RS Rooms](https://github.com/KunikaMakker/rs-stays) | HTML, CSS | [rs-stays.vercel.app](https://rs-stays-git-main-kunika-makkers-projects.vercel.app) |
+| Fullstop Hostels *(private repo)* | Next.js, TypeScript, SSR | [fullstophostels.com](https://fullstophostels.com) |
+| RS Rooms *(private repo)* | HTML, CSS | [Live Preview](https://rs-stays-git-main-kunika-makkers-projects.vercel.app) |
 
-> Most of my day-to-day engineering happens in private repositories at SHL —  
-> enterprise interview platforms handling thousands of real-time workflows daily.
-
+> Most of my engineering happens in private repositories —  
+> enterprise platforms at SHL and client work built for friends.
 ---
 
 ### Beyond the screen
