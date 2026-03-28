@@ -39,9 +39,7 @@ Find me at **[kunika.dev](https://kunika.dev)**
 > Most of my engineering happens in private repositories —  
 > enterprise platforms at SHL and client work built for friends.
 
----
 [![](https://visitcount.itsvg.in/api?id=KunikaMakker&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 ### Beyond the screen
 
