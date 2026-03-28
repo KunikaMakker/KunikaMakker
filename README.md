@@ -38,13 +38,6 @@ Find me at **[kunika.dev](https://kunika.dev)**
 
 > Most of my engineering happens in private repositories —  
 > enterprise platforms at SHL and client work built for friends.
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KunikaMakker&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KunikaMakker&icon=0&color=0)](https://visitcount.itsvg.in)
